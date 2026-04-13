@@ -29,16 +29,16 @@ The project is organized into the following directory structure to handle backen
 * **Music Integration:** Spotipy (Spotify API Wrapper), OAuth 2.0
 
 ## Dataset
-The dataset used for this project is the **FER-2013 dataset** from Kaggle. [cite_start]It contains approximately 35,000 grayscale facial images (48x48 pixels) labeled across 7 emotion categories. [cite: 1550, 1689]
+The dataset used for this project is the **FER-2013 dataset** from Kaggle. It contains approximately 35,000 grayscale facial images (48x48 pixels) labeled across 7 emotion categories. 
 
-* [cite_start]**Download Link:** [FER-2013 on Kaggle](https://www.kaggle.com/datasets/msambare/fer2013) [cite: 1551, 1811]
-* [cite_start]**Note:** To run this project locally, download the dataset from the link above and place the images in the `data/` folder. [cite: 1809]
+* **Download Link:** [FER-2013 on Kaggle](https://www.kaggle.com/datasets/msambare/fer2013)
+* **Note:** To run this project locally, download the dataset from the link above and place the images in the `data/` folder.
 
 
 ## Project Models
 This project utilizes several trained deep learning models for emotion classification. Due to GitHub's file size limits, they are hosted externally. You can download them from the links below:
 
-* [cite_start]**Primary Model:** [Download EfficientNet Model (.keras)](https://drive.google.com/file/d/1lVfK3MHZAwwUNCXc39_qJP4d_m8HV8Q9/view?usp=drive_link) - Fine-tuned EfficientNetV2L[cite: 340].
+* **Primary Model:** [Download EfficientNet Model (.keras)](https://drive.google.com/file/d/1lVfK3MHZAwwUNCXc39_qJP4d_m8HV8Q9/view?usp=drive_link) - Fine-tuned EfficientNetV2L.
 * **Legacy/VGG16 Model:** [Download VGG16 Model (.h5)](https://drive.google.com/file/d/16astkL5xM8EIsP3vf76de5QqWFKpjCVD/view?usp=drive_link) - Alternative model for testing.
 * **Standard Model:** - The standard serialized model file found in the project directory.
 
