@@ -76,4 +76,3 @@ This project utilizes several trained deep learning models for emotion classific
 
 ## Credits
 Developed by **Valishetty Sri Sai Sohan** and **Yempati Raghavendra Swamy**.
-```
