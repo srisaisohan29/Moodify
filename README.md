@@ -34,12 +34,6 @@ The dataset used for this project is the **FER-2013 dataset** from Kaggle. [cite
 * [cite_start]**Download Link:** [FER-2013 on Kaggle](https://www.kaggle.com/datasets/msambare/fer2013) [cite: 1551, 1811]
 * [cite_start]**Note:** To run this project locally, download the dataset from the link above and place the images in the `data/` folder. [cite: 1809]
 
-## Project Models
-The deep learning models used in this project exceed GitHub's file size limits. You can download them from the links below:
-
-* [Download EfficientNet Model (.keras)]()
-* [Download VGG16 Model (.h5)]()
-
 
 ## Project Models
 This project utilizes several trained deep learning models for emotion classification. Due to GitHub's file size limits, they are hosted externally. You can download them from the links below:
